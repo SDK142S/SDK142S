@@ -1,4 +1,4 @@
-<!-- Replace 'yourusername' with your actual GitHub username -->
+<!-- Replace 'your username' with your actual GitHub username -->
 <p align="center">
   <img src="https://github.com/yourusername/yourusername/blob/main/banner.gif" alt="Profile Banner">
 </p>
