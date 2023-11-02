@@ -1,8 +1,8 @@
-<!-- Replace 'yourusername' with your actual GitHub username -->
+<!-- Replace 'SDK142S' with your actual GitHub username -->
 
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://github.com/yourusername/yourusername/blob/main/banner.gif" alt="Profile Banner">
+  <img src="https://github.com/SDK142S/SDK142S/blob/main/banner.gif" alt="Profile Banner">
 </p>
 
 <!-- Introduction -->
