@@ -1,4 +1,15 @@
-<h2>Voilà  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"><h>I'm Seetha Dinesh 🌐 Software Developer </h> </h2>
+<h2>Voilà  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"><h>I'm Seetha Dinesh 🌐 Software Developer </h>  
+<h2 style="font-family: 'Times New Roman', Times, serif;">Voilà  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Seetha Dinesh 🌐 Software Developer </h2>
+
+<h2 style="font-family: Arial, sans-serif;">Voilà  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Seetha Dinesh 🌐 Software Developer </h2>
+
+<h2 style="font-family: 'Courier New', Courier, monospace;">Voilà  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Seetha Dinesh 🌐 Software Developer </h2>
+
+<h2 style="font-family: Georgia, serif;">Voilà  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Seetha Dinesh 🌐 Software Developer </h2>
+
+<h2 style="font-family: Verdana, Geneva, sans-serif;">Voilà  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Seetha Dinesh 🌐 Software Developer </h2>
+
+</h2>
 
 
 
