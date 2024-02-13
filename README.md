@@ -4,6 +4,8 @@
 
 <p align="center">
   <a href="https://github.com/SDK142S/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=;Self-taught%20;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+- 🌐 Software Developer
+- 💻 Int PG Computer Science Student at [NASC](https://nasc.ac.in/)
 </p>
 <br/>
 <!---<p align="center">
@@ -43,14 +45,10 @@
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
 
-- 🌐 Software Developer
-- 💻 Computer Science Student at [NASC](https://nasc.ac.in/)
-
   
 <h2>📫 How to Reach me: </h2> 
 
-   [<img src='twitter.png' alt='twitter' height='40'>](https://twitter.com/ssdk_)  [<img src='github.png' alt='github' height='40'>](https://github.com/SDK142S)  [<img src='instagram.png' alt='instagram' height='40'>](https://www.instagram.com/ssdk/)  [<img src='linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/its-me-sees/)
-
+   [<img src='twitter.png' alt='twitter' height='40'>](https://twitter.com/ssdk_)  [<img src='github.png' alt='github' height='40'>](https://github.com/SDK142S)  [<img src='instagram.png' alt='instagram' height='40'>](https://www.instagram.com/ssdk/)  [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='40'>](https://www.linkedin.com/in/its-me-sees/)
 <a href="mailto:seethadk@gmail.com">![seethadk@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
 
 <a href=#><img src="contributions.svg"></a>
