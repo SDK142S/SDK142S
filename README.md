@@ -1,4 +1,4 @@
-![logo](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![logo](https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif)
 <h1 align="center">Hi 👋, I'm Seetha Dinesh</h1>
 <h3 align="center">A passionate Software developer</h3>
 
