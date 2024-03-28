@@ -4,13 +4,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sdk142s&label=Profile%20views&color=0e75b6&style=flat" alt="sdk142s" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sdk142s" alt="sdk142s" /></a> </p>
+<div style="display: flex; align-items: center;">
+    <div>
+        <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sdk142s&theme=gruvbox&column=9&margin-w=15&margin-h=15" alt="sdk142s" /></a> </p>
+        <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
+    </div>
+</div>
 
-- 🔭 I’m currently working on **pvhead**
+  <!-- - 🔭 I’m currently working on -->
+  
+ <!-- - 💬 Ask me about **react** -->
+  
+ <!-- - 📫 How to reach me **ss@gmail.com** -->
 
-- 💬 Ask me about **react**
-
-- 📫 How to reach me **ss@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
