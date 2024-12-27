@@ -1,5 +1,4 @@
 ![logo](https://github.com/SDK142S/SDK142S/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-<h3 align="center">Software developer</h3>
 
  <!-- -<p align="left"> <img src="https://komarev.com/ghpvc/?username=sdk142s&label=Profile%20views&color=0e75b6&style=flat" alt="sdk142s" /> </p>  -->
 
